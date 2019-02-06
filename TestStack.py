@@ -2,10 +2,8 @@
 
 # Developed by Wael Bahloul
 
-'''
-The code below is used to test the functionlity of thee StackADT,
-the StackADT itself is availabel on the file/class StackADT
-'''
+# The code below is used to test the functionlity of the StackADT,
+# the StackADT itself is available on the file/class StackADT
 
 from StackADT import StackADT
 

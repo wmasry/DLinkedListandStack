@@ -2,11 +2,8 @@
 
 # Developed by Wael Bahloul
 
-'''
-The code below have two classes "Node" and "DlinkedListADT"
-with all the required functionlities as per the assignment
-'''
-
+# The code below have two classes "Node" and "DlinkedListADT"
+# with some functionalities to add, remove, traverse ... etc
 
 class Node:
   def __init__(self, n):

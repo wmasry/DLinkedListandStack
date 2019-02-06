@@ -2,12 +2,9 @@
 
 # Developed by Wael Bahloul
 
-'''
-The code below is used to demonstrate all the function created in
-the DLinkedListADT, the actualy implementation of the linkedlist is
-located in the file/class DLinkedListADT
-It demonstrate all the functionalities
-'''
+# The code below is used to demonstrate all the function created in
+# the DLinkedListADT, the actualy implementation of the linkedlist is
+# located in the file/class DLinkedListADT
 
 from DLinkedListADT import DlinkedListADT
 

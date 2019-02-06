@@ -2,10 +2,10 @@
 
 # Developed by Wael Bahloul
 
-'''
-The code below has only one class "StackADT", the code demonstrate the
-functionality of the stack while by the using DLinkedListADT class
-'''
+# The code below has only one class "StackADT", the code demonstrate the
+# functionality of the stack  by the using DLinkedListADT class
+# and some functions are implemented to show case (push, pop ...etc )
+
 
 from DLinkedListADT import DlinkedListADT
 
